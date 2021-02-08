@@ -1,0 +1,11 @@
+.NavBar_Section1 {
+  background-color: #1b4332;
+  display: block;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.NavBar_Section1 > ul {
+  list-style-type: none;
+}
+/*# sourceMappingURL=TutorialHomepages.css.map */

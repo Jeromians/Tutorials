@@ -1,0 +1,27 @@
+html{
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+}
+
+*, *::before, ::after{
+    box-sizing: border-box;
+}
+
+//flexbox
+.flex{
+    display: flex;
+
+    &-jc-sb{
+        justify-content: space-between;
+    }
+    &-jc-c{
+        justify-content: center;
+    }
+    &-ai-c{
+        align-items:center;
+    }
+}
